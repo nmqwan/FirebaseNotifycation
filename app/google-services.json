@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005427595168",
+    "firebase_url": "https://pushnotifyfb-cafed.firebaseio.com",
+    "project_id": "pushnotifyfb-cafed",
+    "storage_bucket": "pushnotifyfb-cafed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005427595168:android:6ec3cd70f800a9ca",
+        "android_client_info": {
+          "package_name": "vn.com.winta.quan.pushnotifyfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005427595168-htblkbo37glg4s4u82lb06bu51ohhhu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.winta.quan.pushnotifyfb",
+            "certificate_hash": "f67be8313cf23df56b529904a019109794f33249"
+          }
+        },
+        {
+          "client_id": "1005427595168-1tv00kun7e8undpntbpr2kjq8rsb99e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9oyNtK3gcsm7NDd9Jl-o2_OeG8uWOVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005427595168-1tv00kun7e8undpntbpr2kjq8rsb99e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
